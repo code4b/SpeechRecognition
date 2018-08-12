@@ -1,10 +1,9 @@
 ## Speech Recognition
-###
-macOS
+### macOS
 
 using Google Speech Recognition Service.
 
-requirement
+requirements
 ````
 pip install speechrecognition 
 brew install portaudio 
