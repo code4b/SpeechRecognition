@@ -1,5 +1,5 @@
 ## Speech Recognition
-### macOS
+### for macOS
 
 using Google Speech Recognition Service.
 
